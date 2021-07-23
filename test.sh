@@ -1,3 +1,2 @@
 hostname;
-date
-w
+date;
